@@ -9,7 +9,7 @@
 
 - 🌱 I am currently study computer engineering at An-Najah National Univercity.
 
-- 🌱 I am currently training at Gaza Sky Geeks as Front End Developer using React.js.
+- 🌱 I am finish training at Gaza Sky Geeks as Front End Developer using React.js.
 
 - 🎓 Expected graduatin date is january 2024.
 
