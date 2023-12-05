@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I am currently study computer engineering at An-Najah National Univercity.
+- 🌱 I am in the last semester of studying computer engineering at An-Najah National University.
 
 - 🌱 I am finish training at Gaza Sky Geeks as Front End Developer using React.js.
 
