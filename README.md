@@ -7,13 +7,7 @@
 
 <br>
 
-- 🌱 I am in the last semester of studying computer engineering at An-Najah National University.
-
-- 🌱 I am finish training at Gaza Sky Geeks as Front End Developer using React.js.
-
-- 🎓 Expected graduatin date is january 2024.
-
-- 😄 Fun fact: I love Cars(🚗), explore nature outdoors(🌴), and Photography(📷).
+- 🎓 Studied Computer Engineering at An-Najah National University.
 
 - 📫 How to reach me **anooraldeen9@gmail.com**
 
