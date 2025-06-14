@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Computer Engineer</b></h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 👤 About Me
 <picture> <img align="right" width="400px" hight="200px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
 
 <br>
